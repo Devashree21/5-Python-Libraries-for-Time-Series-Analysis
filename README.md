@@ -1,7 +1,5 @@
 # 5-Python-Libraries-for-Time-Series-Analysis
 
-5 Python Libraries for Time Series Analysis
-
 **Here is a short FAQ about this repository**
 
 **1) What is this repository about?**
